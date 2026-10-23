@@ -24,7 +24,8 @@ DIG is a simple guidance aid for mini excavators. Fit a WitMotion WT901BLECL sen
   - **3 on boom, stick and bucket:** bucket depth and reach at the teeth, about ±2 cm. The sensor phone is best on the boom. Move the bucket device to the auger drive for hole depth with plumb.
   - **4:** add one on the auger drive: nothing to move, and you can curl freely while drilling.
 - **Charging:** USB-C. A charge lasts about a working day, so charge them overnight.
-- **Weather:** the sensors aren't waterproof. Fit each one in a sealed box or case, held firmly so it can't shift.
+- **Weather:** the sensors aren't waterproof. Fit each WitMotion sensor in a sealed box or case; a sensor phone goes in a case with the bottom edge open. Hold each one firmly so it can't shift.
+- **Where to fit the bucket device:** under or on the side of the quick hitch, never on top (it can be pinched at full curl). No hitch? On the back of the bucket, between the ears. Hold it in a case on a rubber-coated pot magnet (at least 25 kg pull), with a backup tie through a hole or tab, so a knock leaves it dangling instead of falling. Mark its outline (or use a small plate it clicks onto) so it goes back at the same angle; if it doesn't, redo **Show the app how the bucket moves**. Curl the bucket fully in and out once and check nothing touches it. Avoid Velcro: heat and dirt make it creep. A sensor phone's case must leave the bottom edge open (that's where it senses air pressure).
 - **Where to buy:** WitMotion's official site, [wit-motion.com](https://www.wit-motion.com), or any electronics retailer that sells genuine WitMotion parts.
 
 **Common questions**
