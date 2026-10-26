@@ -31,7 +31,7 @@ DIG is a simple guidance aid for mini excavators. Fit a WitMotion WT901BLECL sen
 **Common questions**
 - **The phones won't connect.** Turn Bluetooth on for both phones, keep DIG open on the sensor phone, and keep the phones within a few metres for the first link.
 - **When do I run setup again?** Settings has three buttons at the top: **Start of day**, **Changed bucket** (after swapping buckets or attachments) and **Full setup** (after moving a phone or sensor).
-- **Depth needs boom and stick devices.** Depth and reach come from the arm's geometry, so fit devices on the boom and stick (and the bucket). They aren't affected by wind.
+- **Depth needs boom and stick devices.** Depth and reach come from the arm's geometry, so fit devices on the boom and stick (and the bucket).
 - **Which iPhones work?** iPhone 6s or newer, on iOS 15 or later.
 
 **Please note:** DIG is a guidance aid, not a survey instrument or a safety device. Always check grades with a tape, string line or laser, and locate underground services before you dig (Before You Dig Australia, or 811 in the US).
