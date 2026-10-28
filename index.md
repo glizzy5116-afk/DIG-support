@@ -17,7 +17,7 @@ DIG is a simple guidance aid for mini excavators. Fit a WitMotion WT901BLECL sen
 4. To look around first, with one phone: cab phone → Settings → **Practice mode**.
 
 **Recommended sensor**
-- **Model:** WitMotion **WT901BLECL** (Bluetooth 5.0). Other models aren't supported yet.
+- **Model:** WitMotion **WT901BLECL** (Bluetooth 5.0). Other models aren't supported yet. DIG works with the WitMotion WT901BLECL. Check the model number before you buy: classic-Bluetooth models such as the BWT901CL can't connect to an iPhone.
 - **How many:** any number from 1 to 4 devices (a device is a WitMotion sensor or the sensor phone; the cab phone isn't counted):
   - **1 on the bucket:** bucket angle. Move it to the auger drive for auger plumb.
   - **2:** bucket + auger drive (nothing to move), or boom + stick for auger hole depth (about ±2 cm).
