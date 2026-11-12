@@ -30,7 +30,8 @@ DIG is a simple guidance aid for mini excavators. Fit a WitMotion WT901BLECL sen
 
 **Common questions**
 - **The phones won't connect.** Turn Bluetooth on for both phones, keep DIG open on the sensor phone, and keep the phones within a few metres for the first link.
-- **When do I run setup again?** Settings has three buttons at the top: **Start of day**, **Changed bucket** (after swapping buckets or attachments) and **Full setup** (after moving a phone or sensor).
+- **When do I run setup again?** Settings has two buttons at the top: **Start of day** and **Full setup** (after moving a phone or sensor). After swapping buckets, tap **Change bucket** on the dig screen, next to TARGET.
+- **What do the beeps mean?** Nothing until you're 500 mm from your target. Then the beeps get faster as you close in, go solid on grade, and slow down if you're too deep. The auger beeps stop when the auger is out of the hole. Tap the speaker at the top of the dig screen to turn the beeps and voice off. Alarms still sound.
 - **Depth needs boom and stick devices.** Depth and reach come from the arm's geometry, so fit devices on the boom and stick (and the bucket).
 - **Which iPhones work?** iPhone 6s or newer, on iOS 15 or later.
 
