@@ -20,8 +20,8 @@ DIG is a simple guidance aid for mini excavators. Fit a WitMotion WT901BLECL sen
 - **Model:** WitMotion **WT901BLECL** (Bluetooth 5.0). Other models aren't supported yet. Check the model number before you buy: classic-Bluetooth models such as the BWT901CL can't connect to an iPhone.
 - **How many:** any number from 1 to 4 devices (a device is a WitMotion sensor or the sensor phone; the cab phone isn't counted):
   - **1 on the bucket:** bucket angle. Move it to the auger drive for auger plumb.
-  - **2:** bucket + auger drive (nothing to move), or boom + stick for auger hole depth (about ±2 cm).
-  - **3 on boom, stick and bucket:** bucket depth and reach at the teeth, about ±2 cm. The sensor phone is best on the boom. Move the bucket device to the auger drive for hole depth with plumb.
+  - **2:** bucket + auger drive (nothing to move), or boom + stick for auger hole depth (aims for about ±2 cm with careful setup; check it against your tape).
+  - **3 on boom, stick and bucket:** bucket depth and reach at the teeth (aims for about ±2 cm with careful setup; check it against your tape). The sensor phone is best on the boom. Move the bucket device to the auger drive for hole depth with plumb.
   - **4:** add one on the auger drive: nothing to move, and you can curl freely while drilling.
 - **Charging:** USB-C. A charge lasts about a working day, so charge them overnight.
 - **Weather:** the sensors aren't waterproof. Fit every device (sensor or sensor phone) in a sealed case, held firmly so it can't shift.
